@@ -10,11 +10,25 @@ body {
   color: #222;
 }
 
-header,u
+header,
 footer {
   padding: 1.5rem;
   background-color: #333;
   color: #fff;
+}
+
+a {
+  color:#ff9800;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+section h2{
+  color:#333;
+  margin-bottom:0.5rem;
 }
 
 main {
